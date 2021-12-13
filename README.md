@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=400&section=header&text=JUN&fontSize=90)
+Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun111haha&&show_icons=true&theme=dark)
 
 
