@@ -1,4 +1,3 @@
 Hi there 👋
 <br>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jun111haha)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun111haha&show_icons=true&theme=dark)
